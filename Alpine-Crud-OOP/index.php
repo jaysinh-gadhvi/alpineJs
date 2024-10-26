@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alpine Crud Using PHP</title>
     <!-- Bootstrap Link -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./../assets/css/bootstrap.min.css">
     <!-- Alpine Script -->
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <style>
@@ -99,7 +99,7 @@
     </div>
 
     <!-- Bootstrap Scipt -->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="./../assets/js/bootstrap.min.js"></script>
     <script>
         function customers_management() {
             return {
